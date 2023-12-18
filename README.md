@@ -7,3 +7,6 @@ MADS
 
 ##  Work Experience
 Banking
+
+# ADD PICTURE
+#![EEG Band Discovery](filepath.jpeg)
