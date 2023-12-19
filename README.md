@@ -1,9 +1,29 @@
 # Data Science | Corporate Finance | Capital Markets
 
 ## Education
-MADS
+Master of Applied Data Science - University of Michigan (2023)
 
-## Projects
+Master of Business Administration - University of Chicago
+
+Bachelor of Arts - Northwestern University
+
+## Select Projects
+
+# Can Natural Language Processing Be Used To Enhance Investment Returns?
+
+- Optimized portfolio allocation of debt and equity ETFs using a combination of traditioonal technical indicators and NLP
+- Performed multiple NLP analyses on Federal Open Market Committee Meeting Minutes from 2008 through June of 2023
+- NLP-optimized portfolio delivered superior risk-adjusted returns based on Sharpe Ratios
+
+# 
+ 
+
+#  Is The Playing Field Level?
+
+- Analyzed whether star rankings awarded to top high school football players are in alignment with the distribution of income across the United States
+- Goal was to analyze whether high school players from wealthier backgrounds received a disproportionate share of top rankings based on access to private coaching and camps
+- Results skew in favor of wealthier recruits for select positional groups (Quarterbacks and Offensive Linemen) 
+  
 
 ##  Work Experience
 Banking
