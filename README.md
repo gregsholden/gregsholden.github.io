@@ -13,4 +13,4 @@ Banking
 
 
 # Picture
-![Photo](GregHolden.jpeg)
+![Photo](assets/NamedEntityRecogSample.png)
