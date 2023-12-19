@@ -9,4 +9,4 @@ MADS
 Banking
 
 # ADD PICTURE
-#![EEG Band Discovery](filepath.jpeg)
+![LDA Analysis](LDATopicsBubbles.png)
