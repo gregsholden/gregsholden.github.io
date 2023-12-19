@@ -10,3 +10,7 @@ Banking
 
 # ADD PICTURE
 ![LDA Analysis](LDATopicsBubbles.png)
+
+
+# Picture
+![Photo[(assets/Greg Holden.jpeg)
