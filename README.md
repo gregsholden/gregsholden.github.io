@@ -13,4 +13,4 @@ Banking
 
 
 # Picture
-![Photo[(assets/Greg Holden.jpeg)
+![Photo[(GregHolden.jpeg)
