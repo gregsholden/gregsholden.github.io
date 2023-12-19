@@ -1,5 +1,5 @@
 title:  Greg Holden
-#logo: / pic rel path
-description:  Text below image
-show_downloads: trye
+logo: assets/Greg Holden.jpeg 
+description:  Investment Banking / Data Science
+show_downloads: true
 theme: jekyll-theme-minimal
