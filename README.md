@@ -13,4 +13,4 @@ Banking
 
 
 # Picture
-![Photo[(GregHolden.jpeg)
+![Photo](GregHolden.jpeg)
