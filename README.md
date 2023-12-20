@@ -32,7 +32,7 @@ Bachelor of Arts - Northwestern University
 ![Photo](assets/AggClusters.png)
 
 ### Unsupervised Dendogram
-#![](assets/Dendogram.png){:height="50%",width="50%}
+####![](assets/Dendogram.png)
 <img src="assets/Dendogram.png" width="25" height="25" />
 
 ## Choosing A Location For A New International Manufacturing Facility  
