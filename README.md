@@ -29,12 +29,9 @@ Bachelor of Arts - Northwestern University
 ![Photo](assets/FeatImp_VideoCards.png)
 
 ### Unsupervised Clustering
-![Photo](assets/AggClusters.png)
-
 <img src="assets/AggClusters.png" width="250" height="250" />
 
 ### Unsupervised Dendogram
-
 <img src="assets/Dendogram.png" width="250" height="250" />
 
 ## Choosing A Location For A New International Manufacturing Facility  
