@@ -24,6 +24,16 @@ Bachelor of Arts - Northwestern University
 - Supervised learning models used on traditional and web-based marketing metrics to assess likelihood of purchasing specifics products
 - Unsupervised models to segment customer base and develop personas that could enhance the effectiveness of targeted marketing campaigns
 
+### Supervised Feature Importance Analysis
+![Photo](assets/FeatImp_VideoCards.png)
+
+### Unsupervised Clustering
+![Photo](assets/AggClusters.png)
+
+### Unsupervised Dendogram
+![Photo](assets/Dendogram.png)
+
+
 ## Choosing A Location For A New International Manufacturing Facility  
 - Analyzed World Development Index dataset from the World Bank in order to make a recommendation for a new manufacturing facility of a hypothetical multinational corporation
 - Recommendation based on Economic, Demographic and Human Rights indicators
@@ -34,7 +44,8 @@ Bachelor of Arts - Northwestern University
 - Goal was to determine whether high school players from wealthier backgrounds received a disproportionate share of top rankings
 - Results show that certain positional groups (Quarterbacks and Offensive Linemen) tend to be overrepresented by prospects from wealthier backgrounds
 
-#- ![Photo](assets/OffenseQuartiles.png)
+### Distribution Based On Income Quartiles
+![Photo](assets/OffenseQuartiles.png)
 
 ##  Work Experience
 
