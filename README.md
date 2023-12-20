@@ -37,7 +37,7 @@ Bachelor of Arts - Northwestern University
 |![](assets/AggClusters.png")<br>Unsupervised Clustering|![](assets/Dendogram.png)<br>Dendogram|
 |:-:|:-:|
 
-![alt-text-1](assets/AggClusters.png "Agglomerative Clusters" =75%x)![alt-text-2](assets/Dendogram.png "Dendogram" =75%x)
+![](assets/AggClusters.png "Agglomerative Clusters" =75%x)![](assets/Dendogram.png "Dendogram" =75%x)
 
 
 ## Choosing A Location For A New International Manufacturing Facility  
