@@ -1,6 +1,7 @@
 title:  Greg Holden
-logo: assets/Greg Holden.jpeg 
+#logo: assets/Greg Holden.jpeg 
 #logo: <img src="assets/Greg Holden.png" width="250" height="250" />
-description:  Capital Markets and Corporate Finance Executive With Masters-Level Data Science Skills
+logo: ![pic](/assets/Greg Holden.png){: width="250" }
+#description:  Capital Markets and Corporate Finance Executive With Masters-Level Data Science Skills
 show_downloads: false
 theme: jekyll-theme-minimal
