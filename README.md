@@ -37,7 +37,7 @@ Bachelor of Arts - Northwestern University
 
 ![Photo](assets/PopVsAvgGDPGr.png)
 
-<img src="assets/PopVsAvgGDPGr.png" width="500" height="250" />
+<img src="assets/PopVsAvgGDPGr.png" width="500" height="400" />
  
 ## Is The Playing Field Level?
 
