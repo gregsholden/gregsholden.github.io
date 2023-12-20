@@ -25,25 +25,19 @@ Bachelor of Arts - Northwestern University
 - Supervised learning models used on traditional and web-based marketing metrics to assess likelihood of purchasing specifics products
 - Unsupervised models to segment customer base and develop personas that could enhance the effectiveness of targeted marketing campaigns
 
-### Supervised Feature Importance Analysis
+### Sample Supervised Feature Importance Analysis - Video Cards
 #![Photo](assets/FeatImp_VideoCards.png)
 
 ### Unsupervised Clustering and Dendogram Analysis
-<img src="assets/AggClusters.png" title="test" width="250" height="250" />|<img src="assets/Dendogram.png" width="250" height="250" />
-
-
-
-|![](assets/AggClusters.png")<br>Unsupervised Clustering|![](assets/Dendogram.png)<br>Dendogram|
-|:-:|:-:|
-
-![](assets/AggClusters.png "Agglomerative Clusters" =75%x)![](assets/Dendogram.png "Dendogram" =75%x)
-
+<img src="assets/AggClusters.png" width="250" height="250" />|<img src="assets/Dendogram.png" width="250" height="250" />
 
 ## Choosing A Location For A New International Manufacturing Facility  
 - Analyzed World Development Index dataset from the World Bank in order to make a recommendation for a new manufacturing facility of a hypothetical multinational corporation
 - Recommendation based on Economic, Demographic and Human Rights indicators
 
 ![Photo](assets/PopVsAvgGDPGr.png)
+
+<img src="assets/PopVsAvgGDPGr.png" width="500" height="250" />
  
 ## Is The Playing Field Level?
 
