@@ -31,6 +31,8 @@ Bachelor of Arts - Northwestern University
 ### Unsupervised Clustering
 ![Photo](assets/AggClusters.png)
 
+<img src="assets/AggClusters.png" width="250" height="250" />
+
 ### Unsupervised Dendogram
 
 <img src="assets/Dendogram.png" width="250" height="250" />
