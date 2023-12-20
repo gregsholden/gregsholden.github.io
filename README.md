@@ -28,14 +28,10 @@ Bachelor of Arts - Northwestern University
 ### Supervised Feature Importance Analysis
 #![Photo](assets/FeatImp_VideoCards.png)
 
-### Unsupervised Clustering
-#<img src="assets/AggClusters.png" width="250" height="250" />
-
-### Unsupervised Dendogram
-#<img src="assets/Dendogram.png" width="250" height="250" />
-
-
+### Unsupervised Clustering and Dendogram Analysis
 <img src="assets/AggClusters.png" title="test" width="250" height="250" />|<img src="assets/Dendogram.png" width="250" height="250" />
+
+
 
 |![](assets/AggClusters.png")<br>Unsupervised Clustering|![](assets/Dendogram.png)<br>Dendogram|
 |:-:|:-:|
