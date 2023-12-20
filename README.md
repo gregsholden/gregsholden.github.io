@@ -1,8 +1,10 @@
-# Data Science | Corporate Finance | Capital Markets
+# About Me
+
+Over 20 years of Corporate Finance and Capital Markets experience.   Long history of developing customized strategic and financing solutions for corporate clients.   Recently completed Master of Applied Data Science degree at The University of Michigan.
 
 ## Education
 
-Master of Applied Data Science - University of Michigan (2023)
+Master of Applied Data Science - University of Michigan
 
 Master of Business Administration - University of Chicago
 
@@ -14,7 +16,7 @@ Bachelor of Arts - Northwestern University
 
 - Optimized portfolio of debt and equity ETFs using a combination of traditional technical indicators and NLP
 - Performed multiple NLP analyses on Federal Open Market Committee Meeting Minutes from 2008 through June of 2023
-- NLP-optimized portfolio delivered superior risk-adjusted returns
+- NLP-optimized portfolio delivered superior risk-adjusted returns vs. traditional 60/40 equity/debt benchmark
   
 ### Sample Named Entity Recognition Analysis
 ![Photo](assets/NamedEntityRecogSample.png)
@@ -22,8 +24,8 @@ Bachelor of Arts - Northwestern University
 ## eCommerce Analysis - Using ML to Enhance Marketing Strategies
 
 - Used machine learning models to analyze web transaction data of online electronics retailer
-- Supervised learning models used on traditional and web-based marketing metrics to assess likelihood of purchasing specifics products
-- Unsupervised models to segment customer base and develop personas that could enhance the effectiveness of targeted marketing campaigns
+- Supervised learning models used on traditional and web-based marketing metrics reveal likelihood of purchasing any of over 700 products across 14 categories
+- Unsupervised models to segment customer base into 3 key groups, which help create personas that could enhance the effectiveness of targeted marketing campaigns
 
 ### Sample Supervised Feature Importance Analysis - Video Cards
 #![Photo](assets/FeatImp_VideoCards.png)
@@ -33,10 +35,9 @@ Bachelor of Arts - Northwestern University
 
 ## Choosing A Location For A New International Manufacturing Facility  
 - Analyzed World Development Index dataset from the World Bank in order to make a recommendation for a new manufacturing facility of a hypothetical multinational corporation
+- Compared 18 countries across 3 regions -- Southeast Asia, Africa and Eastern Europe
 - Recommendation based on Economic, Demographic and Human Rights indicators
-
-![Photo](assets/PopVsAvgGDPGr.png)
-
+  
 <img src="assets/PopVsAvgGDPGr.png" width="500" height="300" />
  
 ## Is The Playing Field Level?
@@ -48,8 +49,4 @@ Bachelor of Arts - Northwestern University
 ### Distribution Based On Income Quartiles
 ![Photo](assets/OffenseQuartiles.png)
 
-##  Work Experience
 
-Independent Consultant
-
-Head of Equity & Equity-Linked Securities
