@@ -43,7 +43,7 @@ Bachelor of Arts - Northwestern University
 ## Is The Playing Field Level?
 
 - Analyzed distribution of star rankings awarded to top high school football players compared to the U.S. distribution of income
-- Goal was to determine whether high school players from wealthier backgrounds received a disproportionate share of top rankings
+- Goal was to determine whether high school players from wealthier backgrounds received a disproportionate share of top rankings based on access to private coaching and camps
 - Results show that certain positional groups (Quarterbacks and Offensive Linemen) tend to be overrepresented by prospects from wealthier backgrounds
 
 ### Distribution Based On Income Quartiles
