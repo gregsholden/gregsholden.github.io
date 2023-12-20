@@ -1,6 +1,6 @@
 # About Me
 
-Over 20 years of Corporate Finance and Capital Markets experience.   Long history of developing customized strategic and financing solutions for corporate clients.   Recently completed Master of Applied Data Science degree at The University of Michigan.
+Over 20 years of Corporate Finance and Capital Markets experience.   Long history of developing and executing complex strategic and financing solutions for corporate clients.  Leadership experience buildingm multiple businesses.   
 
 ## Education
 
