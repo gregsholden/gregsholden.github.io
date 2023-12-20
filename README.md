@@ -32,8 +32,8 @@ Bachelor of Arts - Northwestern University
 ![Photo](assets/AggClusters.png)
 
 ### Unsupervised Dendogram
-####![](assets/Dendogram.png)
-<img src="assets/Dendogram.png" width="75" height="75" />
+
+<img src="assets/Dendogram.png" width="125" height="125" />
 
 ## Choosing A Location For A New International Manufacturing Facility  
 - Analyzed World Development Index dataset from the World Bank in order to make a recommendation for a new manufacturing facility of a hypothetical multinational corporation
