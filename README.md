@@ -15,6 +15,8 @@ Bachelor of Arts - Northwestern University
 - Optimized portfolio of debt and equity ETFs using a combination of traditional technical indicators and NLP
 - Performed multiple NLP analyses on Federal Open Market Committee Meeting Minutes from 2008 through June of 2023
 - NLP-optimized portfolio delivered superior risk-adjusted returns
+
+![Photo](assets/NamedEntityRecogSample.png)
   
 ## eCommerce Analysis - Using ML to Enhance Marketing Strategies
 
