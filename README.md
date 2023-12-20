@@ -34,6 +34,8 @@ Bachelor of Arts - Northwestern University
 - Goal was to determine whether high school players from wealthier backgrounds received a disproportionate share of top rankings
 - Results show that certain positional groups (Quarterbacks and Offensive Linemen) tend to be overrepresented by prospects from wealthier backgrounds
 
+#- ![Photo](assets/OffenseQuartiles.png)
+
 ##  Work Experience
 
 
