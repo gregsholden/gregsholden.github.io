@@ -37,6 +37,8 @@ Bachelor of Arts - Northwestern University
 ## Choosing A Location For A New International Manufacturing Facility  
 - Analyzed World Development Index dataset from the World Bank in order to make a recommendation for a new manufacturing facility of a hypothetical multinational corporation
 - Recommendation based on Economic, Demographic and Human Rights indicators
+
+![Photo](assets/PopVsAvgGDPGr.png)
  
 ## Is The Playing Field Level?
 
