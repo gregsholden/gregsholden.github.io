@@ -1,6 +1,6 @@
 # About Me
 
-Over 20 years of Corporate Finance and Capital Markets experience.   Long history of developing and executing complex strategic and financing solutions for corporate clients.  Leadership experience buildingm multiple businesses.   
+Over 20 years of Corporate Finance and Capital Markets experience.   Long history of developing and executing complex strategic and financing solutions for corporate clients.  Leadership experience building multiple businesses.   
 
 ## Education
 
@@ -31,7 +31,7 @@ Bachelor of Arts - Northwestern University
 #![Photo](assets/FeatImp_VideoCards.png)
 
 ### Unsupervised Clustering and Dendogram Analysis
-<img src="assets/AggClusters.png" width="225" height="225" />|<img src="assets/Dendogram.png" width="225" height="225" />
+<img src="assets/AggClusters.png" width="200" height="200" />|<img src="assets/Dendogram.png" width="225" height="225" />
 
 ## Choosing A Location For A New International Manufacturing Facility  
 - Analyzed World Development Index dataset from the World Bank in order to make a recommendation for a new manufacturing facility of a hypothetical multinational corporation
