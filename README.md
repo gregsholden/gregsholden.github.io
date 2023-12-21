@@ -48,7 +48,7 @@ Bachelor of Arts - Northwestern University
 - Goal was to determine whether high school players from wealthier backgrounds receive a disproportionate share of top rankings based on access to private coaching and camps
 - Results show that certain positional groups (Quarterbacks and Offensive Linemen) tend to be overrepresented by prospects from wealthier backgrounds
 
-### Distribution Based On Income Quartiles
+### Distribution Based On Income Quartiles - Offense
 ![Photo](assets/OffenseQuartiles.png)
 
 
