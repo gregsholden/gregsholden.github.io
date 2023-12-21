@@ -29,7 +29,7 @@ Bachelor of Arts - Northwestern University
 - Used unsupervised models to segment customers into 3 clusters.  Created distrinct personas which can be used to enhance the effectiveness of targeted marketing campaigns
 
 ### Supervised Feature Importance Analysis - Video Cards
-#![Photo](assets/FeatImp_VideoCards.png)
+![Photo](assets/FeatImp_VideoCards.png)
 
 ### Unsupervised Clustering Analysis and Dendogram
 <img src="assets/AggClusters.png" width="200" height="200" />|<img src="assets/Dendogram.png" width="200" height="200" />
