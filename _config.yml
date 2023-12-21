@@ -3,5 +3,5 @@ logo: assets/Greg Holden.jpeg
 #logo: <img src="assets/Greg Holden.png" width="250" height="250" />
 #logo: ![pic](/assets/Greg Holden.png){: width="25" }
 #description:  Capital Markets | Corporate Finance | Data Science 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
