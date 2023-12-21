@@ -14,23 +14,24 @@ Bachelor of Arts - Northwestern University
 
 ## Can Natural Language Processing Be Used To Enhance Investment Returns?
 
-- Optimized portfolio of debt and equity ETFs using a combination of traditional technical indicators and NLP
-- Performed multiple NLP analyses on Federal Open Market Committee Meeting Minutes from 2008 through June of 2023
-- NLP-optimized portfolio delivered superior risk-adjusted returns vs. traditional 60/40 equity/debt benchmark
+- Analyzed whether an investment portfolio consisting of combinations of 11 equity and 4 debt ETFs could outperform a traditional 60/40 equity/debt benchmrk 
+- Initial ETF portfolios adjusted based on traditional technical indicators (EMA, RSI, MACD) and signals from NLP algorithms
+- NLP algorithms used Federal Open Market Committee Meeting Minutes from 2008 through June of 2023 as inputs
+- Result:  Certain NLP-optimized ETF portfolios delivered superior risk-adjusted returns vs. traditional 60/40 equity/debt benchmark
   
 ### Sample Named Entity Recognition Analysis
 ![Photo](assets/NamedEntityRecogSample.png)
   
 ## eCommerce Analysis - Using ML to Enhance Marketing Strategies
 
-- Used machine learning models to analyze web transaction data of online electronics retailer
-- Supervised learning models used on traditional and web-based marketing metrics reveal likelihood of purchasing any of over 700 products across 14 categories
-- Unsupervised models to segment customer base into 3 key groups, which help create personas that could enhance the effectiveness of targeted marketing campaigns
+- Analyzed over 875,000 web transaction events of an online electronics retailer with over 53,000 products in 700 categories
+- Used supervised learning models and both traditional and web-based marketing metrics to predict the likelihood of purchasing a  given product 
+- Used unsupervised models to segment customer base into 3 clusters which create distinct personas and enhance the effectiveness of targeted marketing campaigns
 
-### Sample Supervised Feature Importance Analysis - Video Cards
+### Supervised Feature Importance Analysis - Video Cards
 #![Photo](assets/FeatImp_VideoCards.png)
 
-### Unsupervised Clustering and Dendogram Analysis
+### Unsupervised Clustering Analysis and Dendogram
 <img src="assets/AggClusters.png" width="200" height="200" />|<img src="assets/Dendogram.png" width="200" height="200" />
 
 ## Choosing A Location For A New International Manufacturing Facility  
