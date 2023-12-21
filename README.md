@@ -32,7 +32,7 @@ Bachelor of Arts - Northwestern University
 ![Photo](assets/FeatImp_VideoCards.png)
 
 ### Unsupervised Clustering Analysis and Dendogram
-<img src="assets/AggClusters.png" width="200" height="200" />|<img src="assets/Dendogram.png" width="200" height="200" />
+<img src="assets/AggClusters.png" width="200" height="200" /> <img src="assets/Dendogram.png" width="200" height="200" />
 
 ## Choosing A Location For A New International Manufacturing Facility  
 - Analyzed World Development Index dataset from the World Bank in order to make a recommendation for a new manufacturing facility of a hypothetical multinational corporation
