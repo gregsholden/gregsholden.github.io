@@ -1,6 +1,12 @@
 # About Me
 
-Over 20 years of Corporate Finance and Capital Markets experience.   Long history of developing and executing complex strategic and financing solutions for corporate clients.  Leadership experience building multiple businesses.   
+Over 20 years of Corporate Finance and Capital Markets experience.   
+
+Long history of working with cross-functional teams to executin complex strategic solutions.  
+
+Proven ability to distill complex topics into manageable pieces for non-technical audiences.
+
+Leadership experience building multiple businesses.   
 
 ## Education
 
