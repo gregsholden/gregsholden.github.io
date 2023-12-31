@@ -2,9 +2,9 @@
 
 Over 20 years of Corporate Finance and Capital Markets experience.   
 
-Long history of working with cross-functional teams to executin complex strategic solutions.  
+Long history of working with cross-functional teams and executing complex strategic transactions.  
 
-Proven ability to distill complex topics into manageable pieces for non-technical audiences.
+Proven ability to simplify complex topics for non-technical audiences.
 
 Leadership experience building multiple businesses.   
 
