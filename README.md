@@ -32,7 +32,7 @@ Bachelor of Arts - Northwestern University
 
 - Analyzed over 875,000 web transaction events of an online electronics retailer with over 53,000 products in 700 categories
 - Used supervised learning models and both traditional and web-based marketing metrics to predict the likelihood of purchasing a  given product 
-- Used unsupervised models to segment customers into 3 clusters.  Created distrinct personas which can be used to enhance the effectiveness of targeted marketing campaigns
+- Used unsupervised models to segment customers into 3 clusters.  Created distinct personas which can be used to enhance the effectiveness of targeted marketing campaigns
 
 ### Supervised Feature Importance Analysis - Video Cards
 ![Photo](assets/FeatImp_VideoCards.png)
